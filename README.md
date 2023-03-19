@@ -9,11 +9,11 @@ DELETE - Delete items from watchlist through GUI or API <br />
 ![WebApp Live Demo](/WatchListDemo.gif)  
 <h3>Tech Stack</h3>
 <h4>Backend:</h4>
-* Python <br />
-* Django <br />
-* Django Rest Framework <br />
-* sqlite  <br />
+* Python - logic <br />
+* Django - backend manager <br />
+* Django Rest Framework - api config <br />
+* sqlite - database <br />
 <h4>Front End:</h4>
-* Vue <br />
+* Vue - frontend manager <br />
 * Javascript & Jquery - UX <br />
 * Semantic UI - component styling <br />
