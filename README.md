@@ -1,5 +1,6 @@
 # CryptoWatchList
-CRUD Django + Vue WebApp Demo - Add Coins to Watchlist and retrieve basic info <br />
+Django + Vue WebApp Demo - Add Coins to Watchlist and retrieve basic info <br />
+Highlights - CRUD operations on internal database, and calling external API to update records.
 <br />
 CREATE - Add items to watchlist through Vue GUI or Django API <br />
 READ - List items displayed on homepage of Web App through API <br />
